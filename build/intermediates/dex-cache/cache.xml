@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2ba714d3906f01b69a6dee478b4dbe376907df4c">
+        <dex dex="/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a077f0b3cf3074b025e9bae8a312c7810db6b345/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/libs/libStreamSDK_v1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e1e5f345627a468aa81ac151298bb55552ff61b7">
+        <dex dex="/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/transforms/dex/debug/folders/1000/2/libStreamSDK_v1.1.0_0ebefb5a17d451621032ad44ca5a59b50b4a294f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="070177574fced75bbd76af6b58642c245fb36984">
+        <dex dex="/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14e4391a29ff140ae70bb3d29e6dea17667fda91/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Fri Feb 24 13:21:03 CST 2017
+base.0=/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14e4391a29ff140ae70bb3d29e6dea17667fda91
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a077f0b3cf3074b025e9bae8a312c7810db6b345/classes.dex
+base.1=/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a077f0b3cf3074b025e9bae8a312c7810db6b345
+file.0=/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14e4391a29ff140ae70bb3d29e6dea17667fda91/classes.dex

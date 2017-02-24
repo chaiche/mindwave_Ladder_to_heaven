@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/res/merged/debug/raw/tgam_capture.bin",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/raw/tgam_capture.bin"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/res/merged/debug/raw/jump.mp3",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/raw/jump.mp3"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/res/merged/debug/raw/gameover.mp3",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/raw/gameover.mp3"
+    },
+    {
+        "merged": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/res/merged/debug/raw/fire.mp3",
+        "source": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/raw/fire.mp3"
+    }
+]

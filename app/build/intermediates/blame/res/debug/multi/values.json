@@ -1,0 +1,169 @@
+[
+    {
+        "outputFile": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 43,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 43,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endLine": 6,
+                    "endColumn": 76,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endLine": 6,
+                        "endColumn": 76,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endLine": 8,
+                    "endColumn": 73,
+                    "endOffset": 511
+                },
+                "from": {
+                    "file": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 64,
+                        "endLine": 4,
+                        "endColumn": 73,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 516,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1543
+                },
+                "from": {
+                    "file": "/Users/chaiche/TGStreamDemo_MindWaveMobile1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1273
+                    }
+                }
+            }
+        ]
+    }
+]
